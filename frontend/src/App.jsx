@@ -376,7 +376,7 @@ function App() {
         <div className="brand">
           <div className="brand-logo">A</div>
           <div className="brand-text">
-            <h1>Academix</h1>
+            <h1>Academic</h1>
             <p>Student Management System</p>
           </div>
         </div>
